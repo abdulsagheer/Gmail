@@ -1,0 +1,10 @@
+.gmail {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.gmailOptions {
+  display: flex;
+  height: 91vh;
+}
